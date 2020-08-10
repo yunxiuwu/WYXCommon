@@ -1,0 +1,6 @@
+framework module WYXCommon {
+  umbrella header "WYXCommon-umbrella.h"
+
+  export *
+  module * { export * }
+}

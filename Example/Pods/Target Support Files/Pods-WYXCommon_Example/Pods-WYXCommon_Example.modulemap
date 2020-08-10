@@ -1,0 +1,6 @@
+framework module Pods_WYXCommon_Example {
+  umbrella header "Pods-WYXCommon_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

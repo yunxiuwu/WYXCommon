@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - WYXCommon (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - WYXCommon (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  WYXCommon:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  WYXCommon: 37359fd27786f9382c2ad70922cf3ed0b9732809
+
+PODFILE CHECKSUM: 5c092c7c24c66b3245907509ee91068a930014b2
+
+COCOAPODS: 1.9.3
